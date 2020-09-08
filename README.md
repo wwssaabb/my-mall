@@ -31,6 +31,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 此次分享我的学习项目，希望和大家共勉。
 #### 用到的UI框架/插件有：
 Element-UI(饿了么UI框架)、
+axios(基于promise的 HTTP 库)、
 moment(解决服务器的时间戳)、
 swiper(移动端轮播图插件)、
 fastClick(解决移动端300ms的延迟)、

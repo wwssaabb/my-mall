@@ -1,5 +1,5 @@
 # my-mall
-项目展示：[传送门]（http://www.longxin.store/my-mall）
+项目展示：[传送门](http://www.longxin.store/my-mall/).
 ## Project setup
 ```
 npm install
